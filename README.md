@@ -18,7 +18,6 @@
 ## 🧑‍💻 About Me
 🎓 CSE Student at **AIUB**  
 🔍 Focused on **Software Quality Assurance and Testing**  
-
 🚀 Passionate about building **reliable, well-tested systems**
 
 ---
