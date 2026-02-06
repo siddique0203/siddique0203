@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Md Abu Bakar Siddique</h1>
-<h3 align="center">Aspiring Software Engineer, QA | CSE @AIUB |</h3>
+<h3 align="center">Aspiring Software Engineer, QA | CSE @AIUB </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/siddique0203">
@@ -17,8 +17,8 @@
 
 ## 🧑‍💻 About Me
 🎓 CSE Student at **AIUB**  
-🔍 Focused on **Software Quality Assurance, Automation Testing & Backend Development**  
-⚙️ Experience in **.NET, API Testing, Selenium, and Robotics**  
+🔍 Focused on **Software Quality Assurance and Testing**  
+
 🚀 Passionate about building **reliable, well-tested systems**
 
 ---
@@ -101,11 +101,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddique0203&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddique0203&layout=compact&theme=tokyonight"/>
-</p>
+
 
 ---
 
