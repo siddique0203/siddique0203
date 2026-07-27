@@ -2,7 +2,7 @@
 <h3 align="center">🧪 Software QA Engineer in the making | 💻 Aspiring Software Engineer | 🎓 CSE @ AIUB</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Quality+first%2C+always.;Manual+%2B+Automation+Testing;Building+reliable+software+systems;Currently+interning+as+QA+%40+EWN+Bangladesh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Quality+first%2C+always.;Manual+Testing+%7C+API+Testing+%7C+Automation+Testing;Ensuring+Quality+Through+Comprehensive+Testing;Currently+interning+as+QA+%40+EWN+Bangladesh" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -51,9 +51,7 @@
 ---
 
 ### 💻 Programming & Development
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,php" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,php" height="80" /> </p>
 
 ---
 
