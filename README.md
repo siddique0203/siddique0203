@@ -1,5 +1,9 @@
 <h1 align="center">Hi there👋, I'm Md Abu Bakar Siddique</h1>
-<h3 align="center">Aspiring Software Engineer, QA | CSE @AIUB </h3>
+<h3 align="center">🧪 Software QA Engineer in the making | 💻 Aspiring Software Engineer | 🎓 CSE @ AIUB</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Quality+first%2C+always.;Manual+%2B+Automation+Testing;Building+reliable+software+systems;Currently+interning+as+QA+%40+EWN+Bangladesh" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/siddique0203">
@@ -15,93 +19,102 @@
 
 ---
 
-## 🧑‍💻 About Me
-🎓 CSE Student at **AIUB**  
-🔍 Focused on **Software Quality Assurance and Testing**  
-🚀 Passionate about building **reliable, well-tested systems**
+### 🧑‍💻 About Me
+
+- 💼 Currently working as a **Support & Quality Assurance (QA) Intern** at **EWN Bangladesh Ltd.**
+- 🧪 Actively gaining hands-on experience in **Manual Testing, API Testing, Bug Reporting, Test Case Design, and Software Quality Assurance**.
+- 📄 Successfully completed my undergraduate thesis on **Machine Learning-based Disease Detection**, with the research paper currently under review for publication.
+- 🌱 Continuously improving my skills in **Software Testing, Automation Testing, .NET, SQL, Git/GitHub, and Software Development**.
+- 🎯 Seeking opportunities to grow as a **Software Quality Assurance Engineer** while expanding my knowledge in software engineering and modern development practices.
+- 💬 Ask me about **QA processes, test design, or .NET/API development**.
+- ⚡ Fun fact: I enjoy building **robots** as much as I enjoy breaking software (to make it better) 🤖
 
 ---
 
-## 🧪 Software Quality Assurance
+### 🧪 Software Quality Assurance
 <p>
-  <img src="https://img.shields.io/badge/Manual_Testing-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Automation_Testing-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Selenium-black?style=flat-square&logo=selenium"/>
-  <img src="https://img.shields.io/badge/API_Testing-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Test_Case_Design-purple?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Test_Planning-teal?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SDLC-STLC-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Manual_Testing-2F80ED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation_Testing-27AE60?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Selenium-black?style=for-the-badge&logo=selenium"/>
+  <img src="https://img.shields.io/badge/API_Testing-F2994A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Test_Case_Design-9B51E0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Test_Planning-1ABC9C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bug_Reporting-EB5757?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SDLC%20%26%20STLC-EB5757?style=for-the-badge"/>
 </p>
 
 ---
 
-## 💻 Programming & Development
+### 💻 Programming & Development
 <p>
-  <img src="https://img.shields.io/badge/C-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp"/>
-  <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
 ---
 
-## 🌐 Web, Backend & API
+### 🌐 Web, Backend & API
 <p>
-  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet"/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet"/>
-  <img src="https://img.shields.io/badge/Web_API-REST-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-6DB33F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LINQ-blueviolet?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web_API-REST-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-6DB33F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LINQ-5C2D91?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🗄 Database
+### 🗄 Database
 <p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 ---
 
-## 🤖 Robotics & Embedded Systems
+### 🤖 Robotics & Embedded Systems
 <p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino"/>
-  <img src="https://img.shields.io/badge/ESP32-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Circuit_Design-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Robo_Soccer_Bot-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/RC_Bot_Design-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Motor_&_Sensor_Control-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Circuit_Design-F2994A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Robo_Soccer_Bot-EB5757?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RC_Bot_Design-2F80ED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Motor_%26_Sensor_Control-27AE60?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📌 Highlighted Projects
-🔹 **Shifting Service Management System (.NET)**  
-🔹 **Software Quality Testing – Crafty**  
-🔹 **ASP.NET Core Web API Project**  
-🔹 **FixtureFlow (Python Automation)**  
-🔹 **Robo Soccer Bot & RC Bot Projects**
+### 📌 Highlighted Projects
+🔹 **Shifting Service Management System** — ASP.NET Core & Entity Framework  
+🔹 **Software Quality Testing – Crafty** — Manual & functional test suite  
+🔹 **ASP.NET Core Web API Project** — REST API design & implementation  
+🔹 **FixtureFlow** — Python automation project  
+🔹 **ML-based Disease Detection** — Undergraduate thesis (paper under review)  
+🔹 **Robo Soccer Bot & RC Bot** — Arduino/ESP32 based robotics builds
 
 ---
 
-## 🛠 Tools
+### 🛠 Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
+<p align="center">
+  ⭐ <i>Focused on quality, automation, and building reliable software systems.</i> ⭐
+</p>
 
-
----
-
-⭐ *Focused on quality, automation, and building reliable software systems.*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siddique0203&style=for-the-badge&color=2F80ED" alt="profile views"/>
+</p>
