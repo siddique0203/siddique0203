@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Md Abu Bakar Siddique</h1>
-<h3 align="center">🧪 Software QA Engineer in the making | 💻 Aspiring Software Engineer | 🎓 CSE @ AIUB</h3>
+<h3 align="center">🧪 Software Quality Assurance Engineer in the making | 🎓 CSE @ AIUB</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Quality+first%2C+always.;Manual+Testing+%7C+API+Testing+%7C+Automation+Testing;Ensuring+Quality+Through+Comprehensive+Testing;Currently+interning+as+QA+%40+EWN+Bangladesh" alt="Typing SVG" />
