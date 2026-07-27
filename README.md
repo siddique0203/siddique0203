@@ -1,11 +1,14 @@
 <h1 align="center">Hi there👋, I'm Md Abu Bakar Siddique</h1>
-<h3 align="center">🧪 Software Quality Assurance Engineer in the making | 🎓 CSE @ AIUB</h3>
+<h3 align="center">🧪 Software QA Engineer in the making | 💻 Aspiring Software Engineer | 🎓 CSE @ AIUB</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Quality+first%2C+always.;Manual+Testing+%7C+API+Testing+%7C+Automation+Testing;Ensuring+Quality+Through+Comprehensive+Testing;Currently+interning+as+QA+%40+EWN+Bangladesh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Quality+first%2C+always.;Manual+%2B+Automation+Testing;Building+reliable+software+systems;Currently+interning+as+QA+%40+EWN+Bangladesh" alt="Typing SVG" />
 </p>
 
 <p align="center">
+  <a href="https://siddique.page.gd">
+    <img src="https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
   <a href="https://linkedin.com/in/siddique0203">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -26,6 +29,7 @@
 - 📄 Successfully completed my undergraduate thesis on **Machine Learning-based Disease Detection**, with the research paper currently under review for publication.
 - 🌱 Continuously improving my skills in **Software Testing, Automation Testing, .NET, SQL, Git/GitHub, and Software Development**.
 - 🎯 Seeking opportunities to grow as a **Software Quality Assurance Engineer** while expanding my knowledge in software engineering and modern development practices.
+- 🌐 Check out my portfolio: **[siddique.page.gd](https://siddique.page.gd)**
 - 💬 Ask me about **QA processes, test design, or .NET/API development**.
 - ⚡ Fun fact: I enjoy building **robots** as much as I enjoy breaking software (to make it better) 🤖
 
