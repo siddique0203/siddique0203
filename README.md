@@ -2,7 +2,7 @@
 <h3 align="center">🧪 Software QA Engineer in the making | 💻 Aspiring Software Engineer | 🎓 CSE @ AIUB</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Quality+first%2C+always.;Manual+Testing+%7C+API+Testing+%7C+Automation+Testing;Ensuring+Quality+Through+Comprehensive+Testing;Currently+interning+as+QA+%40+EWN+Bangladesh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Quality+first%2C+always.;Manual+%2B+Automation+Testing;Building+reliable+software+systems;Currently+interning+as+QA+%40+EWN+Bangladesh" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -52,12 +52,7 @@
 
 ### 💻 Programming & Development
 <p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,php" />
 </p>
 
 ---
