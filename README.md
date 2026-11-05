@@ -1,117 +1,70 @@
-<h1 align="center">Hi there👋, I'm Md Abu Bakar Siddique</h1>
-<h3 align="center">🧪 Software QA Engineer in the making | 💻 Software Engineer | 🎓 CSE @ AIUB</h3>
-
+<h1 align="center">Md Abu Bakar Siddique</h1>
+<p align="center"><strong>Software Quality Assurance · Mobile &amp; API Testing</strong></p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Quality+first%2C+always.;Manual+Testing+%7C+API+Testing+%7C+Automation+Testing;Ensuring+Quality+Through+Comprehensive+Testing;Currently+interning+as+QA+%40+EWN+Bangladesh" alt="Typing SVG" />
+  <a href="https://siddique.page.gd"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-164E63?style=flat-square"></a>
+  <a href="https://linkedin.com/in/siddique0203"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-155E75?style=flat-square"></a>
+  <a href="mailto:siddique0203@gmail.com"><img alt="Email me" src="https://img.shields.io/badge/Email_me-0E7490?style=flat-square"></a>
 </p>
 
-<p align="center">
-  <a href="https://siddique.page.gd">
-    <img src="https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/siddique0203">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:siddique0203@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/siddique0203">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+I test Android and iOS apps on physical devices as a **Support & QA Intern at EWN Bangladesh Ltd.** My work starts with everyday tasks: restoring a backup, finding a saved screenshot or switching off analytics. I check what happens when those tasks are interrupted and give developers the steps and evidence to reproduce a failure.
 
----
+## Professional experience
 
-### 🧑‍💻 About Me
+**EWN Bangladesh Ltd.** · Support & QA Intern · July 2026 – Present
 
-- 💼 Currently working as a **Support & Quality Assurance (QA) Intern** at **EWN Bangladesh Ltd.**
-- 🧪 Actively gaining hands-on experience in **Manual Testing, API Testing, Bug Reporting, Test Case Design, and Software Quality Assurance**.
-- 📄 Successfully completed my undergraduate thesis on **Machine Learning-based Disease Detection**, with the research paper currently under review for publication.
-- 🌱 Continuously improving my skills in **Software Testing, Automation Testing, .NET, SQL, Git/GitHub, and Software Development**.
-- 🎯 Seeking opportunities to grow as a **Software Quality Assurance Engineer** while expanding my knowledge in software engineering and modern development practices.
-- 🌐 Check out my portfolio: **[siddique.page.gd](https://siddique.page.gd)**
-- 💬 Ask me about **QA processes, test design, or .NET/API development**.
-- ⚡ Fun fact: I enjoy building **robots** as much as I enjoy breaking software (to make it better) 🤖
+### FuelTrackr · Android & iOS
 
----
+- **Data accuracy:** Check fuel calculations, currency handling and unit conversions. Test whether editing an older odometer reading keeps later records consistent.
+- **Mobile reliability:** Test offline entries, receipt scanning, permissions and backup restoration on Android devices and iPhones. Retest fixes across languages, right-to-left layouts and Dark Mode.
+- **Release support:** Match release candidates to their commits and build numbers. Run smoke and regression tests on staging and TestFlight builds. Prepare physical-device recordings for Apple App Review and support releases through Google Play Console and App Store Connect.
+- **Product analytics:** Validate Firebase and GA4 events. Document missing events and attribution gaps so weekly usage and retention reports distinguish measured behavior from unavailable data.
 
-### 🧪 Software Quality Assurance
-<p>
-  <img src="https://img.shields.io/badge/Manual_Testing-2F80ED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Automation_Testing-27AE60?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Selenium-black?style=for-the-badge&logo=selenium"/>
-  <img src="https://img.shields.io/badge/API_Testing-F2994A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Test_Case_Design-9B51E0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Test_Planning-1ABC9C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bug_Reporting-EB5757?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SDLC%20%26%20STLC-EB5757?style=for-the-badge"/>
-</p>
+### Recall · Android screenshot organizer
 
----
+- **Core workflows:** Follow a screenshot from import through OCR, collections, search and notes. Test duplicate imports and confirm existing screenshots survive app upgrades.
+- **Consent and privacy:** Use Firebase DebugView to check that events appear only when analytics is enabled. Inspect event payloads for private OCR text, search terms and notes.
+- **Recovery and accessibility:** Run Erase All Data during an active import and verify that analytics consent resets. Check key screens at the largest system font size.
 
-### 💻 Programming & Development
-<p> <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,php" height="80" /> </p>
+## QA toolkit
 
----
+| Area | Tools and methods |
+| :--- | :--- |
+| Test design | Functional, exploratory, regression and smoke testing; boundary cases and end-to-end workflows |
+| APIs | Postman · REST requests and responses · HTTP status codes · input validation |
+| Defect investigation | Reproduction steps · expected and actual results · device logs · screenshots and recordings · Jira |
+| Release and monitoring | Git · GitHub · TestFlight · App Store Connect · Google Play Console · Firebase DebugView · GA4 |
+| Automation | Basic Selenium WebDriver experience · currently learning Playwright and API automation |
 
-### 🌐 Web, Backend & API
-<p>
-  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web_API-REST-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-6DB33F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LINQ-5C2D91?style=for-the-badge"/>
-</p>
+## Selected projects
 
----
+**SymptoGuard — undergraduate thesis.** Evaluated machine learning classifiers for symptom-based disease prediction and used SHAP to explore how individual symptoms influenced predictions. The research paper was accepted for publication following ICAII review.
 
-### 🗄 Database
-<p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
+**Crafty — software testing.** Designed manual test cases around user workflows. Documented defects with the steps needed to reproduce them.
 
----
+<details>
+<summary><strong>Backend and embedded systems projects</strong></summary>
 
-### 🤖 Robotics & Embedded Systems
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Circuit_Design-F2994A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Robo_Soccer_Bot-EB5757?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RC_Bot_Design-2F80ED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Motor_%26_Sensor_Control-27AE60?style=for-the-badge"/>
-</p>
+- **Shifting Service Management System:** Built backend functionality and database operations with ASP.NET Core and Entity Framework.
+- **ASP.NET Core Web API:** Developed REST endpoints with input validation and database integration.
+- **Robotics:** Worked on a robot soccer bot and remote-controlled robots using Arduino and ESP32 with motor and sensor control.
 
----
+</details>
 
-### 📌 Highlighted Projects
-🔹 **Shifting Service Management System** — ASP.NET Core & Entity Framework  
-🔹 **Software Quality Testing – Crafty** — Manual & functional test suite  
-🔹 **ASP.NET Core Web API Project** — REST API design & implementation  
-🔹 **FixtureFlow** — Python automation project  
-🔹 **ML-based Disease Detection** — Undergraduate thesis (paper under review)  
-🔹 **Robo Soccer Bot & RC Bot** — Arduino/ESP32 based robotics builds
+<details>
+<summary><strong>Programming and development tools</strong></summary>
 
----
+- **Languages:** C#, C++, Java, Python, JavaScript and PHP
+- **Web and data:** ASP.NET Core, ASP.NET MVC, Entity Framework Core, LINQ, HTML and CSS
+- **Databases:** SQL Server, MySQL and Oracle SQL
+- **Development tools:** Visual Studio and VS Code
 
-### 🛠 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+</details>
 
----
+## Education and next steps
 
-<p align="center">
-  ⭐ <i>Focused on quality, automation, and building reliable software systems.</i> ⭐
-</p>
+**B.Sc. in Computer Science & Engineering** · American International University-Bangladesh (AIUB) · 2022–2026  
+**Higher Secondary Certificate** · Govt. Shahid Smriti College · 2019–2021
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddique0203&style=for-the-badge&color=2F80ED" alt="profile views"/>
-</p>
+I am working toward a **Junior Software QA Engineer** role. My next focus is turning repeatable regression checks into automated tests with Playwright and running them in CI/CD.
+
+[View my portfolio](https://siddique.page.gd) · [Connect on LinkedIn](https://linkedin.com/in/siddique0203) · [Email me](mailto:siddique0203@gmail.com)
